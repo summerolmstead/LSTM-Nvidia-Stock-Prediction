@@ -1,1 +1,5 @@
-Welcome to my final project for my introduction to machine learning class!
+Welcome to my final project for my introduction to machine learning class! This was a LSTM model I created with the goal to predict the Nvidia's stock trajectory.
+I will say that this could be a better model if I add more statistical analysis to see the relationships/ patterns between each window. 
+Furthermore, the result of this model is interesting because generally it only ever went up but had peaks of down so based on the previous simple pattern recognition
+it though it would be a little down. However, 9 months later in reflection it only ever went higher. I hope you enjoy looking into my model to see
+my first ever attempt to a stock price prediction!
